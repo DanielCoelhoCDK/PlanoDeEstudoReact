@@ -1,7 +1,4 @@
 # PlanoDeEstudoReact
-Para adicionar links em markdown, você pode usar a seguinte sintaxe: `[texto do link](URL)`. Por exemplo, para adicionar um link para o site do Codecademy, você pode escrever `[Codecademy](https://www.codecademy.com/learn/react-101)`.
-
-Aqui está a minha resposta anterior com os links adicionados:
 
 1. **Pré-requisitos**: Antes de começar com o React, é importante ter um conhecimento básico de HTML, CSS e JavaScript. Você também deve ter um conhecimento básico de recursos do ES6, como let, const, funções de seta, importações e exportações e classes. Também é útil ter um conhecimento básico de como usar o npm.
 
