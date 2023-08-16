@@ -23,4 +23,4 @@
     - [React Tutorial - W3Schools](https://www.w3schools.com/react/)
     - [Courses – React](https://reactjs.org/community/courses.html)
 
-Espero que este plano de estudo ajude você a começar a aprender o React! Se você tiver mais perguntas ou precisar de mais orientação, fique à vontade para perguntar 😊
+Espero que este plano de estudo ajude você a começar a aprender o React! 😊
